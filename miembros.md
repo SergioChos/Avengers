@@ -5,6 +5,7 @@
 * Capitán America
 * Capitán Marvel
 * Falcon
+* Hank Pym
 * Hawkeye
 * Hulk
 * Iron Man
@@ -17,4 +18,4 @@
 * Wasp
 * Antman
 * Nick Fury
-* Capitána Marvel
+* Capitán Marvel
